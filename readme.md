@@ -24,5 +24,5 @@ Email: example@domain.com
 123456
 
 62541 new changes made in this line
-
+this is the changes from feature 2
 new changes123
